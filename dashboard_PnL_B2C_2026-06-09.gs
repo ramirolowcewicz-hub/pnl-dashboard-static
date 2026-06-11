@@ -1,3 +1,11 @@
-// dashboard_PnL_B2C_2026-06-09.gs - PLACEHOLDER
-// El contenido completo se sube via git push directo (2.2MB)
-// Ver rama: main, archivo: dashboard_PnL_B2C_2026-06-09.gs
+function dashboard() {
+  return `<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="UTF-8">
+// ARCHIVO COMPLETO EN: /workspace/data/pnl-app-deploy/dashboard_gas
+// Tamaño: 2.2MB - 1368 líneas
+// Para descarga completa: usar Google Drive o git clone del workspace
+</head>
+</html>`;
+}
